@@ -1,0 +1,23 @@
+body
+{
+    background-color: bisque;
+}
+
+#score
+{
+    font-size: 20px;
+    margin-left: 20px;
+    float: left;
+}
+
+#timer
+{
+    font-size: 20px;
+    margin-right: 150px;
+    float: right;
+}
+
+#to_be_drawn
+{
+    color: darkslategray;   
+}
